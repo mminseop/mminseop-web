@@ -18,7 +18,6 @@ function App() {
       </div>
       <h1>mminseop-wep</h1>
       <p>기능 추가1</p>
-      <p>기능 추가1</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
