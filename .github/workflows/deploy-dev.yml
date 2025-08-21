@@ -1,4 +1,4 @@
-name: Deploy To S3 and Invalidate Cloudfront
+name: deploy to dev S3
 
 on:
   push:
